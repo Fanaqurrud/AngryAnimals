@@ -1,0 +1,503 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|c:\\users\\admin\\desktop\\\u0448\u0443\u0442\u0435\u0440\\assets\\scripts\\activateenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\activateenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|c:\\users\\admin\\desktop\\\u0448\u0443\u0442\u0435\u0440\\assets\\scripts\\activator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\activator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\assets\\scripts\\carrot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\carrot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\assets\\scripts\\rotatetotargeteuler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotatetotargeteuler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\assets\\scripts\\prefabcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\prefabcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\assets\\scripts\\walker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\walker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\assets\\scripts\\eventsarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\eventsarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\assets\\scripts\\batchprefabcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\batchprefabcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\assets\\scripts\\acorn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\acorn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\assets\\scripts\\settriggereverynseconds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\settriggereverynseconds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\assets\\scripts\\enemybase\\takedamageontrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemybase\\takedamageontrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\assets\\scripts\\rocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\assets\\scripts\\blink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\assets\\scripts\\enemybase\\makedamageontrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemybase\\makedamageontrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\assets\\scripts\\enemybase\\takedamageoncollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemybase\\takedamageoncollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\assets\\scripts\\rotatetoplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotatetoplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\assets\\scripts\\enemybase\\makedamageoncollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemybase\\makedamageoncollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\assets\\scripts\\hen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\assets\\scripts\\enemybase\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemybase\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\assets\\scripts\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\assets\\scripts\\damagescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damagescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\assets\\scripts\\healthui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\assets\\loot\\lootheal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|solutionrelative:assets\\loot\\lootheal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\assets\\scripts\\pointer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pointer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\assets\\scripts\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\assets\\scripts\\headtarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\headtarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\assets\\scripts\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\assets\\scripts\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9AB62D-B666-7B2D-81AA-87AE5BD42BEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\Gun.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gun.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\Gun.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gun.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwBsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T16:08:01.445Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Activator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\Activator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Activator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\Activator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Activator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:11:28.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActivateEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\ActivateEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ActivateEnemy.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\ActivateEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ActivateEnemy.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T16:15:03.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RotateToTargetEuler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\RotateToTargetEuler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RotateToTargetEuler.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\RotateToTargetEuler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RotateToTargetEuler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T13:45:05.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Walker.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\Walker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Walker.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\Walker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Walker.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAgwEIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T13:09:38.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventsArray.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\EventsArray.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EventsArray.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\EventsArray.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EventsArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:57:59.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BatchPrefabCreator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\BatchPrefabCreator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BatchPrefabCreator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\BatchPrefabCreator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BatchPrefabCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T08:14:31.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Acorn.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\Acorn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Acorn.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\Acorn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Acorn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAADZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:56:39.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TakeDamageOnTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\EnemyBase\\TakeDamageOnTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyBase\\TakeDamageOnTrigger.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\EnemyBase\\TakeDamageOnTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyBase\\TakeDamageOnTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T15:54:00.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrefabCreator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\PrefabCreator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PrefabCreator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\PrefabCreator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PrefabCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:08:27.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Carrot.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\Carrot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Carrot.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\Carrot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Carrot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T06:39:38.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SetTriggerEveryNSeconds.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\SetTriggerEveryNSeconds.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SetTriggerEveryNSeconds.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\SetTriggerEveryNSeconds.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SetTriggerEveryNSeconds.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T14:56:35.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Rocket.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\Rocket.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Rocket.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\Rocket.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Rocket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T09:37:02.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MakeDamageOnTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\EnemyBase\\MakeDamageOnTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyBase\\MakeDamageOnTrigger.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\EnemyBase\\MakeDamageOnTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyBase\\MakeDamageOnTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T15:58:05.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Blink.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\Blink.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Blink.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\Blink.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Blink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T08:48:09.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TakeDamageOnCollision.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\EnemyBase\\TakeDamageOnCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyBase\\TakeDamageOnCollision.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\EnemyBase\\TakeDamageOnCollision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyBase\\TakeDamageOnCollision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T07:10:23.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T07:22:55.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Hen.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\Hen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Hen.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\Hen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Hen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T05:56:24.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DamageScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\DamageScreen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DamageScreen.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\DamageScreen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DamageScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T08:29:08.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MakeDamageOnCollision.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\EnemyBase\\MakeDamageOnCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyBase\\MakeDamageOnCollision.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\EnemyBase\\MakeDamageOnCollision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyBase\\MakeDamageOnCollision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T07:45:13.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RotateToPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\RotateToPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RotateToPlayer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\RotateToPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RotateToPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T16:26:01.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\EnemyBase\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyBase\\EnemyHealth.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\EnemyBase\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyBase\\EnemyHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T07:05:33.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LootHeal.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Loot\\LootHeal.cs",
+              "RelativeDocumentMoniker": "Assets\\Loot\\LootHeal.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Loot\\LootHeal.cs",
+              "RelativeToolTip": "Assets\\Loot\\LootHeal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T07:34:54.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HealthUI.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\HealthUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthUI.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\HealthUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthUI.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T17:44:22.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Rotate.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\Rotate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Rotate.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\Rotate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Rotate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T06:14:40.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Pointer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\Pointer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pointer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\Pointer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pointer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T11:39:13.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "headtarget.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\headtarget.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\headtarget.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\headtarget.cs",
+              "RelativeToolTip": "Assets\\Scripts\\headtarget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T10:07:28.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Follow.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\Follow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Follow.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\Follow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Follow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T07:38:37.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PlayerMove.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\PlayerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMove.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\PlayerMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMove.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA1wDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T14:30:34.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "bullet.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\bullet.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0428\u0443\u0442\u0435\u0440\\Assets\\Scripts\\bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T16:02:25.555Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
